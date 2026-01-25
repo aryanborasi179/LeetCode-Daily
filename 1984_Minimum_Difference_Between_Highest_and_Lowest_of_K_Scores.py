@@ -1,4 +1,4 @@
-# LeetCode 1877: Minimize Maximum Pair Sum in Array
+# LeetCode 1984. Minimum Difference Between Highest and Lowest of K Scores
 # Difficulty: Easy
 # Topics: Array, Sliding window
 # Time Complexity: O(n log n)
